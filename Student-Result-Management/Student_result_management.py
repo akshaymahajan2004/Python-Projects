@@ -66,3 +66,4 @@ print("Total Marks :", total_marks, "/ 500")
 print(f"Percentage : {percentage:.2f} %")
 print("Result :", result)
 print("Grade :", Grade)
+
